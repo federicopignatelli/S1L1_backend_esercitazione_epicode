@@ -15,8 +15,7 @@ public class Main {
     }
 
     public static String concatena2 (String a, int b) {
-        Integer.toString(b);
-        return a + b;
+        return a + Integer.toString(b);
     }
 
 }
