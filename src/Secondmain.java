@@ -15,4 +15,5 @@ public class Secondmain {
 
         System.out.println("ciao "+name+" abiti a "+location+" e ti piace la/il "+food);
     }
+
 }
