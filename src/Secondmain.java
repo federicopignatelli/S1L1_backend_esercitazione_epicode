@@ -14,6 +14,8 @@ public class Secondmain {
         String food = scanner.nextLine();
 
         System.out.println("ciao "+name+" abiti a "+location+" e ti piace la/il "+food);
+
+        scanner.close();
     }
 
 }
